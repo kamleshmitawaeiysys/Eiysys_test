@@ -1,5 +1,4 @@
 import React from 'react';
-
 const CountryInput = (props) => {
     const { countryInput, countriesList, onChangeHandler, onCountrySelectHandler } = props
     return (
